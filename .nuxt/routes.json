@@ -1,0 +1,14 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "F:\\\\Nuxtapp\\\\pages\\\\about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "F:\\\\Nuxtapp\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
